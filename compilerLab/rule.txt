@@ -1,0 +1,38 @@
+E->iE'
+E'->+iE'/E
+
+E()
+{
+    base condition:
+    if(l==i)
+    {
+    match(i)
+    E'();
+    }
+}
+E'()
+{
+     base condition:
+        if(l==+)
+        {
+        match(+);
+        match(i)
+        E'();
+        }
+        else
+}
+match(char t)
+{
+if(l==t)
+{
+    l=nextchar
+}
+else
+{ error}
+}
+main()
+{
+E();
+now if (l==$)
+    success
+}
